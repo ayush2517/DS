@@ -1,2 +1,2 @@
-# DS
-This is DATA STRUCTURE
+BCS301
+Data Structure
